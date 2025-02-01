@@ -1,2 +1,2 @@
 # promtopia
-Promtopia JS Mastery Application with NextJS
+Promptopia JS Mastery Application with NextJS
